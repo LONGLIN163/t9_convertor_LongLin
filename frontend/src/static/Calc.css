@@ -1,0 +1,10 @@
+.cardbox{
+    margin: 150px auto;
+    width: 400px;
+}
+.btnBox {
+    padding:0 24px 0 24px;
+}
+body{
+    background-color: #fff;
+}
